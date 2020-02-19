@@ -13,3 +13,5 @@ This crawler is not only limited for those areas but also it can be used to coll
 <ul>5. The URLs obtained from the previous step will then be stored into a cloud database for the purpose of data integrity and remote access.</ul>
 <ul>6. The data that is stored in the database will then be presented to the operator through the web application.</ul></li>
 # Flowchart 
+
+![alt text](http://url/to/img.png)
