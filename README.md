@@ -3,8 +3,10 @@ Data crawler to extract data
 # Description
 Our solution is to develop a web application that crawls for a given set of keywords to extract URLs of the websites that promotes pornography, child abuse, women abuse and cyber bullying.
 
-This crawler is not only limited for those areas but also it can be used to collect data about several illegal websites that promotes drugs, terrorism, ammunition etc
+This crawler is not only limited for those areas but also it can be used to collect data about several illegal websites that promotes drugs, terrorism, ammunition etc.
+
 # Working 
+
 <li>
 <ul>1. The keywords will be given to the Data Crawler through a Web based Application by the operator.</ul>
 <ul>2. Data Crawler performs the obfuscation process and enables the Tor proxies.</ul>
