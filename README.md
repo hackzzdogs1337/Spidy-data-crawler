@@ -12,6 +12,6 @@ This crawler is not only limited for those areas but also it can be used to coll
 <ul>4. The response provided by the search engines is then parsed using a HTML parser and the respective URLs are obtained.</ul>
 <ul>5. The URLs obtained from the previous step will then be stored into a cloud database for the purpose of data integrity and remote access.</ul>
 <ul>6. The data that is stored in the database will then be presented to the operator through the web application.</ul></li>
-# Flowchart 
 
-![alt text](http://url/to/img.png)
+# Flowchart 
+![alt text](https://github.com/hackzzdogs1337/Spidy-data-crawler/blob/master/Picture1.jpg)
