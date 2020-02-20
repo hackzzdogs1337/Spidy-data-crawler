@@ -50,5 +50,5 @@ Here is a snapshot showcasing the working of our prototype
 <ul>2. Anirudh N </ul>
 <ul>3. Anirudh TT </ul>
 <ul>4. Ashwath Kumar A </ul>
-<ul>4. Infant Sheerin K </ul>                                                      
-<ul>5. Ezhilarasi V </ul>
+<ul>5. Infant Sheerin K </ul>                                                      
+<ul>6. Ezhilarasi V </ul>
