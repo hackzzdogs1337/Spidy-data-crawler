@@ -36,15 +36,15 @@ This crawler is not only limited for those areas but also it can be used to coll
 
 ### Technology Used :
 1. Python
-  * Pysocks
-  * Requests
-  * Threading
-  * Concurrent.futures
-  * lxml parser
-  * Beautiful soup
-  * pyscreenshot
-  * Pymongo
-  * Jinja
+   * Pysocks
+   * Requests
+   * Threading
+   * Concurrent.futures
+   * lxml parser
+   * Beautiful soup
+   * pyscreenshot
+   * Pymongo
+   * Jinja
 2. Tor 
 3. Google Cloud
 4. Flask
