@@ -43,6 +43,8 @@ This crawler is not only limited for those areas but also it can be used to coll
 
 # Snapshot 
 Here is a snapshot showcasing the working of our prototype
+![alt text](https://github.com/hackzzdogs1337/Spidy-data-crawler/blob/master/hackathon gif.gif)
+
 
 ## Developed By Team Novato Leets 
 ### Team Members : 
